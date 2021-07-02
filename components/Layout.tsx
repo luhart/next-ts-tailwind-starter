@@ -9,7 +9,7 @@ type Props = {
 
 const Layout = ({
   children,
-  title = 'ReleaseHub - A GitHub Release Tracker',
+  title = 'nextjs typescript tailwindcss starter',
 }: Props): JSX.Element => (
   <div>
     <Head>
