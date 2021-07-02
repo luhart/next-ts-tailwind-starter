@@ -16,7 +16,7 @@ export default function Navbar(): JSX.Element {
             </Link>
           </div>
           <a
-            href="https://github.com/luhart/release-hub"
+            href="https://github.com/luhart/next-ts-tailwind-starter"
             className="my-auto mx-4 py-2 px-2 border-2 border-blue-400 text-md font-bold rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
           >
             Source
